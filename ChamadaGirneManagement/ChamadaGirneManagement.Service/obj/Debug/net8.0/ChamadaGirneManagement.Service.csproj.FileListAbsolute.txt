@@ -1,0 +1,15 @@
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\bin\Debug\net8.0\ChamadaGirneManagement.Service.deps.json
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\bin\Debug\net8.0\ChamadaGirneManagement.Service.dll
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\bin\Debug\net8.0\ChamadaGirneManagement.Service.pdb
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\bin\Debug\net8.0\ChamadaGirneManagement.Domain.dll
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\bin\Debug\net8.0\ChamadaGirneManagement.Domain.pdb
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.csproj.AssemblyReference.cache
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.AssemblyInfoInputs.cache
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.AssemblyInfo.cs
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaG.5412CF59.Up2Date
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.dll
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\refint\ChamadaGirneManagement.Service.dll
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ChamadaGirneManagement.Service.pdb
+C:\Users\mehmet.yalcinkaya\Desktop\projeler\ChamadaGirneManagementSystem\ChamadaGirneManagement\ChamadaGirneManagement.Service\obj\Debug\net8.0\ref\ChamadaGirneManagement.Service.dll

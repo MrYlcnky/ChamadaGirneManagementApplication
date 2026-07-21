@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChamadaGirneManagement.Domain/ChamadaGirneManagement.Domain.csproj" />
+  <Project Path="ChamadaGirneManagement.Persistence/ChamadaGirneManagement.Persistence.csproj" />
+  <Project Path="ChamadaGirneManagement.Service/ChamadaGirneManagement.Service.csproj" />
+  <Project Path="ChamadaGirneManagement.WebAPI/ChamadaGirneManagement.WebAPI.csproj" />
+</Solution>
